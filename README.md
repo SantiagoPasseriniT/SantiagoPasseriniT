@@ -49,5 +49,5 @@ I constantly seek the balance between writing clean code and understanding the r
 
 ### 📫 How to reach me?
 
-* 💼 **LinkedIn:**
-* 📧 **Email:** santiagopasserinit@gmail.com
+* 💼 **LinkedIn:** https://www.linkedin.com/in/santiago-passerini-9571a32b7/
+* 📧 **Email:** santipasser@gmail.com
